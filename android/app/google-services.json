@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "448043918113",
+    "firebase_url": "https://tdmtrabalhofinal.firebaseio.com",
+    "project_id": "tdmtrabalhofinal",
+    "storage_bucket": "tdmtrabalhofinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448043918113:android:1532643b7ad37f72",
+        "android_client_info": {
+          "package_name": "tdm.ifsp.edu.br.tdmtrabalhofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448043918113-iu7clpq0ele41dnju31gossh9as553te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tdm.ifsp.edu.br.tdmtrabalhofinal",
+            "certificate_hash": "c99eeb0d25534cba207cd9868c08bd57c8826039"
+          }
+        },
+        {
+          "client_id": "448043918113-f344chan0n95l79vj3kc0cv65m5e0jel.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "448043918113-f344chan0n95l79vj3kc0cv65m5e0jel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS9sHMoLSQg2QfgKEfnizW5UfUltAW0k0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448043918113-f344chan0n95l79vj3kc0cv65m5e0jel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
